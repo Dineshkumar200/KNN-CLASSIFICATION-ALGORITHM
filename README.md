@@ -171,7 +171,7 @@ print('Mean Accuracy: %.3f%%' % (sum(scores)/float(len(scores))))
 ```
 
 ## Output:
-![Screenshot (211)](https://user-images.githubusercontent.com/75243072/169494187-6e6cb78f-fbe9-4167-8c2e-88fef66f548f.png)
+<br/><br/><br/><br/>![Screenshot (211)](https://user-images.githubusercontent.com/75243072/169494187-6e6cb78f-fbe9-4167-8c2e-88fef66f548f.png)
 
 
 
